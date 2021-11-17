@@ -19,5 +19,7 @@ jobs:
     steps:
       - name: checkout repo
         uses: actions/checkout@v2
+      - name: Install Composer
+        run: make install
       - name: Run CodeSniffer
         run: make lint
