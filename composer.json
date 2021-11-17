@@ -1,0 +1,15 @@
+{
+    "name": "hexlet/code",
+    "description": "First project - brain-games",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mr Smith",
+            "email": "krygrish@yandex.ru"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+      ]
+}
