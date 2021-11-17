@@ -8,6 +8,7 @@
             "email": "krygrish@yandex.ru"
         }
     ],
+    "license": "None",
     "require": {},
     "bin": [
         "bin/brain-games"
