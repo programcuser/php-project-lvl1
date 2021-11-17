@@ -19,4 +19,4 @@ jobs:
     steps:
       # Runs a single command using the runners shell
       - name: Run CodeSniffer
-        run: make lint
+        run: php-project-lvl1/make lint
