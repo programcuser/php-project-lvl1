@@ -29,7 +29,7 @@ for ($i = 0; $i < 3; $i++) {
     $randNum = rand(1, 100);
     $answer = isEven($randNum) ? 'yes' : 'no';
     line("Question: {$randNum}");
-    $userAnswer = prompt("Your answer: {$userAnswer}");
+    $userAnswer = prompt("Your answer");
 
     if ($answer === $userAnswer) {
         line("Correct!");
@@ -38,7 +38,7 @@ for ($i = 0; $i < 3; $i++) {
         }
     } else {
         line("'%s' is wrong answer ;(. Correct answer was '%s'", $userAnswer, $answer);
-        line("Let's try again, {$name}");
+        line("Let's try again, {$name}!");
         break;
     }
 }
