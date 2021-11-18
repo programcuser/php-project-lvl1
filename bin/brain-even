@@ -28,8 +28,8 @@ line('Answer "yes" if the number is even, otherwise answer "no".');
 for ($i = 0; $i < 3; $i++) {
     $randNum = rand(1, 100);
     $answer = isEven($randNum) ? 'yes' : 'no';
-    $userAnswer = prompt("Question: {$randNum}");
-    line("Your answer: {$userAnswer}");
+    line("Question: {$randNum}");
+    $userAnswer = prompt("Your answer: {$userAnswer}");
 
     if ($answer === $userAnswer) {
         line("Correct!");
