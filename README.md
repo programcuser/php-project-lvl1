@@ -2,5 +2,4 @@
 
 ![example workflow](https://github.com/programcuser/php-project-lvl1/actions/workflows/main.yml/badge.svg)
 
-![ASCIINEMA Recording](https://asciinema.org/a/X8f7KtUUJMAgrmlaZ76SEAD5m
-)
+<a href="https://asciinema.org/a/X8f7KtUUJMAgrmlaZ76SEAD5m">Asciinema record</a>
