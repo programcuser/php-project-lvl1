@@ -4,4 +4,6 @@
 
 ![example workflow](https://github.com/programcuser/php-project-lvl1/actions/workflows/main.yml/badge.svg)
 
-<a href="https://asciinema.org/a/X8f7KtUUJMAgrmlaZ76SEAD5m">Asciinema record</a>
+<a href="https://asciinema.org/a/X8f7KtUUJMAgrmlaZ76SEAD5m">Asciinema record brain-even game</a>
+
+<a href="https://asciinema.org/a/oJhPfvSX3I9htjA83E3VM208Q">Asciinema record brain-even game</a>
