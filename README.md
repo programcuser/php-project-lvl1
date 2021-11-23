@@ -6,4 +6,8 @@
 
 <a href="https://asciinema.org/a/X8f7KtUUJMAgrmlaZ76SEAD5m">Asciinema record brain-even game</a>
 
-<a href="https://asciinema.org/a/oJhPfvSX3I9htjA83E3VM208Q">Asciinema record brain-even game</a>
+<a href="https://asciinema.org/a/oJhPfvSX3I9htjA83E3VM208Q">Asciinema record brain-calc game</a>
+
+<a href="https://asciinema.org/a/rYsbYdaefSJyxqpYivjbkooKQ">Asciinema record brain-gcd game</a>
+
+<a href="https://asciinema.org/a/sOM5N1kJ3keP80hzaUYi0yFHa">Asciinema record brain-progression game</a>
