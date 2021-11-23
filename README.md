@@ -11,3 +11,5 @@
 <a href="https://asciinema.org/a/rYsbYdaefSJyxqpYivjbkooKQ">Asciinema record brain-gcd game</a>
 
 <a href="https://asciinema.org/a/sOM5N1kJ3keP80hzaUYi0yFHa">Asciinema record brain-progression game</a>
+
+<a href="https://asciinema.org/a/xzlh1p6VPLWu3oqgSMA4sz44S">Asciinema record brain-prime game</a>
